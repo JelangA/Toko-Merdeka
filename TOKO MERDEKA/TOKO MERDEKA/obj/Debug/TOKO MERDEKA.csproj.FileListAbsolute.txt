@@ -1,0 +1,39 @@
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\TOKO MERDEKA.exe.config
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\TOKO MERDEKA.exe
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\TOKO MERDEKA.pdb
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO MERDEKA.csproj.AssemblyReference.cache
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO MERDEKA.csproj.SuggestedBindingRedirects.cache
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO_MERDEKA.Properties.Resources.resources
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO MERDEKA.csproj.GenerateResource.cache
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO MERDEKA.exe.licenses
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO MERDEKA.csproj.CoreCompileInputs.cache
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO MERDEKA.csproj.CopyComplete
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO MERDEKA.exe
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO MERDEKA.pdb
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\MySql.Data.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Google.Protobuf.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\ZstdNet.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\BouncyCastle.Crypto.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Ubiety.Dns.Core.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\System.Memory.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\System.Buffers.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\K4os.Compression.LZ4.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\K4os.Hash.xxHash.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\MySql.Data.xml
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO MERDEKA.exe.config
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO_MERDEKA.Login.resources
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\MySql.Web.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\MySql.Web.xml
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO_MERDEKA.FAdmin.resources
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\obj\Debug\TOKO_MERDEKA.FManageUser.resources
+D:\jelang\desktop\Toko-Merdeka\TOKO MERDEKA\TOKO MERDEKA\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
